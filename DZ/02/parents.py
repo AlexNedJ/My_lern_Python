@@ -1,0 +1,8 @@
+message=("мой папа,Олександр Недов") 
+print(message) 
+message=("моя мама,татьяна")
+print(message)
+message=("моя сабака,морган")
+print(message)
+message=("я,олександр")
+print(message)
