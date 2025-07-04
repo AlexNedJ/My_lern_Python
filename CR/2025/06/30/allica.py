@@ -15,5 +15,3 @@ filenames =[r'D:\learning\MyPython\CR\2025\06\30\litl_woman.txt',
 
 for fiename in filenames:
     count_worsd(fiename)
-
-print("test")
