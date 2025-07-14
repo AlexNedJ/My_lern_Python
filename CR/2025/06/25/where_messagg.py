@@ -4,8 +4,6 @@ with open(file, 'a') as filesh:
     filesh.write('I love pypathon2')
 
 with open(file, 'r') as filesh:
-    txt = filesh.readlines()
-
-
+    txt = filesh.readlines(10)
 
 print(txt)  
